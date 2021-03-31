@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kira</string>
+    <string name="play">Играть</string>
+    <string name="records">Рекорды</string>
+    <string name="score_example">000</string>
+    <string name="expression_example">2*2=</string>
+    <string name="submit_answer">Ответить</string>
+</resources>
